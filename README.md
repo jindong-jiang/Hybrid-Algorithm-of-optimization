@@ -8,9 +8,9 @@ With this algorithm, a problem of design of TMD(Tuned Mass Damper) is solved,the
 
 Here is the interface and test result of the algorithm.
 
-**Interface**
+**Interface**  
 ![Interface](https://github.com/kyle662606957/Hybrid-Algorithm-of-optimization/blob/master/Img/Interface.PNG)
-**Result of genetic algorithm**
+**Result of genetic algorithm**  
 ![Result of genetic algorithm](https://github.com/kyle662606957/Hybrid-Algorithm-of-optimization/blob/master/Img/Result%20of%20Genetic%20Algorithm.PNG)
-**Result of the newton methode**
+**Result of the newton methode**  
 ![Result of the newton methode](https://github.com/kyle662606957/Hybrid-Algorithm-of-optimization/blob/master/Img/result%20of%20the%20Newton%20Method.PNG)
