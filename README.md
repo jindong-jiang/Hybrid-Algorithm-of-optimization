@@ -14,3 +14,15 @@ Here is the interface and test result of the algorithm.
 ![Result of genetic algorithm](https://github.com/kyle662606957/Hybrid-Algorithm-of-optimization/blob/master/Img/Result%20of%20Genetic%20Algorithm.PNG)  
 **Result of the newton methode**  
 ![Result of the newton methode](https://github.com/kyle662606957/Hybrid-Algorithm-of-optimization/blob/master/Img/result%20of%20the%20Newton%20Method.PNG) 
+
+**Physical Model of the Parallel Damper**  
+![Physical Model](https://github.com/kyle662606957/Hybrid-Algorithm-of-optimization/blob/master/Img/Damper1.png) 
+
+**The result of the Optimisation**  
+![Physical Model](https://github.com/kyle662606957/Hybrid-Algorithm-of-optimization/blob/master/Img/Result1.png) 
+
+**Physical Model of the series Damper**  
+![Physical Model](https://github.com/kyle662606957/Hybrid-Algorithm-of-optimization/blob/master/Img/damper2.png) 
+
+**The result of the Optimisation**  
+![Physical Model](https://github.com/kyle662606957/Hybrid-Algorithm-of-optimization/blob/master/Img/Result2.png) 
